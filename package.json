@@ -1,0 +1,26 @@
+{
+  "name": "pairexercise.nodeshell",
+  "version": "1.0.0",
+  "description": "Creating a node implementation of bash shell",
+  "main": "bash.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewclavin/PairExercise.NodeShell.git"
+  },
+  "keywords": [
+    "Fullstack",
+    "Academy"
+  ],
+  "author": "Jenny and Andrew",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewclavin/PairExercise.NodeShell/issues"
+  },
+  "homepage": "https://github.com/andrewclavin/PairExercise.NodeShell#readme",
+  "dependencies": {
+    "request": "^2.85.0"
+  }
+}
